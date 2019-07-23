@@ -6,6 +6,6 @@ int main()
     int temp = x;
     x=y;
     y=temp;
-
+    printf("enter the number");
     return 0;
 }
